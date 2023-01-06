@@ -12,4 +12,5 @@
   <li>JavaScript</li>
   <li>BEM</li>
   <li>REST API</li>
+  <li>Webpack</li>
 </ul>
